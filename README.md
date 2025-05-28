@@ -1,6 +1,5 @@
 <h2>Hi 👋, I'm Lorenzo Tarragoni</h2>
-I'm 17 years old and i'm looking forward to study computer science at Politecnico di Milano.
-
+i'm swiss
 <h2>📈 My future plans</h2>
 
 <h2>📊 Github Stats</h2>
